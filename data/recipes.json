@@ -1,0 +1,58 @@
+[
+      {
+        "id": "1",
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "onion",
+          "garlic",
+          "canned diced tomatoes",
+          "tomato paste",
+          "dried basil",
+          "dried oregano",
+          "salt",
+          "pepper",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package directions.\n2. In a large skillet, cook the ground beef, onion, and garlic over medium heat until the meat is no longer pink. Drain off any excess fat.\n3. Add the diced tomatoes, tomato paste, basil, oregano, salt, and pepper. Bring to a simmer and let cook for 15-20 minutes, stirring occasionally.\n4. Serve the sauce over the cooked spaghetti, topped with grated Parmesan cheese.",
+        "rating": 4.8
+      },
+      {
+        "id": "2",
+        "name": "Chicken Stir-Fry",
+        "ingredients": [
+          "boneless, skinless chicken breasts",
+          "soy sauce",
+          "cornstarch",
+          "broccoli",
+          "carrots",
+          "red bell pepper",
+          "garlic",
+          "ginger",
+          "vegetable oil",
+          "rice"
+        ],
+        "cooking_method": "1. Cut the chicken into bite-sized pieces and toss with soy sauce and cornstarch. Set aside.\n2. Cut the broccoli and carrots into small pieces and slice the red bell pepper. Mince the garlic and ginger.\n3. Heat oil in a large skillet over high heat. Add the chicken and cook until browned, stirring frequently. Remove from the skillet.\n4. Add more oil to the skillet if needed and add the vegetables. Cook until they are tender-crisp, stirring frequently.\n5. Add the garlic and ginger and cook for 30 seconds.\n6. Return the chicken to the skillet and stir to combine.\n7. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "id": "3",
+        "name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "all-purpose flour",
+          "baking soda",
+          "salt",
+          "unsalted butter",
+          "granulated sugar",
+          "brown sugar",
+          "vanilla extract",
+          "eggs",
+          "chocolate chips"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F (190°C).\n2. In a medium bowl, whisk together the flour, baking soda, and salt.\n3. In a large bowl, beat together the butter, granulated sugar, brown sugar, and vanilla extract until creamy. Add the eggs and beat until well combined.\n4. Gradually add the flour mixture to the butter mixture and beat until well combined.\n5. Stir in the chocolate chips.\n6. Drop the dough by spoonfuls onto a baking sheet lined with parchment paper.\n7. Bake for 10-12 minutes, or until golden brown.\n8. Let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+        "rating": 4.9
+      }
+    ]
+  
+  
